@@ -2,7 +2,7 @@
 
                                                                                                                                                                               بفضل الله    
 
-My UI Framework is a console-based UI framework that allows developers to create text-based user interfaces with ease.
+LimitlessCanvas UI Framework is a console-based UI framework that allows developers to create text-based user interfaces with ease.
 
 ## Features
 
