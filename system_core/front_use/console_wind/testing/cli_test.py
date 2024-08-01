@@ -4,8 +4,8 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import unittest
 from unittest.mock import MagicMock, patch
 
-from console_wind import ConsoleScreen
-from console_wind import Cursor
+from console_wind.x.window_core import ConsoleScreen
+from console_wind.x.window_core import Cursor
 
 class TestConsoleScreen(unittest.TestCase):
 

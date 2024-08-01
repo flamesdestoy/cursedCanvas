@@ -9,7 +9,7 @@ from dataclasses import dataclass
 
 from .abstract_buffer import Buffer
 from ..utils.buffers_utils import create_grid
-from ..data_configs import (
+from ..default_init_params import (
     MAX_BACK_BUFFER_WIDTH,
     MAX_BACK_BUFFER_HEIGHT,
     ADJUSTMENT_RANGE_TOP

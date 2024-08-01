@@ -10,7 +10,9 @@ Classes:
 from dataclasses import dataclass
 
 # Local-coded modules imports
-from .data_configs import DEFAULT_CURSOR_POSITION, DEFAULT_CURSOR_VISIBILITY
+from .default_init_params import (
+    DEFAULT_CURSOR_POSITION, DEFAULT_CURSOR_VISIBILITY
+)
 
 @dataclass
 class Cursor:
